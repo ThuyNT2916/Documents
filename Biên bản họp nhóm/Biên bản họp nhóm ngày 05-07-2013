@@ -1,0 +1,20 @@
+Thành phần tham gia:
+1. Mentor: Anh Nguyễn Tiến
+2. Thành viên nhóm:
+   - Trung Dũng
+   - Thanh Vũ
+Nội dung đã bàn luận và thống nhất:
+1. Tiếp tục triển khai cài đặt Openstack Grizzly trên VMWare.
+2. Thảo luận việc tạo image cho Openstack và tham gia fix bug.
+3. Thường xuyên cập nhật blog theo chủ đề, ý tưởng.
+4. Tìm hiểu một số nội dung sau:
+   - Lịch sử phát triển Openstack
+   - Mô hình điều hành
+   - Các thành phần cơ bản của Openstack
+   - Hướng phát triển tiếp theo
+   - Các cách tiếp cận Openstack
+   - Các đóng góp cho cộng đồng
+5. Tham gia phát triển:
+   - Xây dựng môi trường có tài liệu
+   - Tham gia bug report
+   - Fix bug
