@@ -1,6 +1,7 @@
 2. Đặc điểm và lợi ích của Swift
 ================================
-* Đặc điểm:
+Đặc điểm:
+
 Các đặc tính quan trọng của Swift bao gồm:
 
 - Tất cả các đối tượng được lưu trữ trong Swift có một URL.
@@ -15,6 +16,7 @@ hiệu quả chi phí lưu trữ mở rộng tuyến tính.
 - Các nút mới có thể được thêm vào cluster mà không có thời gian chết.
 - Các nút và ổ đĩa bị hỏng có thể được hoán đổi với thời gian nghỉ dưỡng.
 - Chạy trên phần cứng tiêu chuẩn công nghiệp, chẳng hạn như Dell, HP, Supermicro…
+
 ![ScreenShot](http://2.bp.blogspot.com/-LGCLea0tqOw/UiC-qQR1G4I/AAAAAAAAAcc/KH3ifUbcQzg/s1600/1231231.png)
 
 Để có được một danh sách của tất cả các container trong một account, sử dụng lệnh GET trên tài khoản:
