@@ -17,6 +17,8 @@ cấp hiệu quả chi phí lưu trữ mở rộng tuyến tính.
 - Các nút và ổ đĩa bị hỏng có thể được hoán đổi với thời gian nghỉ dưỡng.
 - Chạy trên phần cứng tiêu chuẩn công nghiệp, chẳng hạn như Dell, HP, Supermicro…
 
+![ScreenShot](http://2.bp.blogspot.com/-LGCLea0tqOw/UiC-qQR1G4I/AAAAAAAAAcc/KH3ifUbcQzg/s1600/1231231.png)
+
 Để có được một danh sách của tất cả các container trong một account, sử dụng lệnh GET trên tài khoản:
 
     GET http://swift.example.com/v1/account/
